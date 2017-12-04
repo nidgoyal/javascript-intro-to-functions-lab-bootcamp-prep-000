@@ -1,7 +1,7 @@
 var string = "Hello!"
 
 var Grandma1 = "I can't hear you!"
-var Grandma2 = "YES INDEED"
+var Grandma2 = "YES INDEED!"
 var Grandma3 = "I love you, too."
 
 var uppercase = "HELLO!"
