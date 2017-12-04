@@ -1,4 +1,4 @@
-var string = "hello!"
+var string = "Hello!"
 
 var Grandma1 = "I can't hear you!"
 var Grandma2 = "YES INDEED"
