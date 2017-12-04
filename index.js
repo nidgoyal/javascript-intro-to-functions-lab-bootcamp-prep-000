@@ -1,7 +1,8 @@
 var string = "hello!"
 
 var Grandma1 = "I can't hear you!"
-var Grandma2 = 
+var Grandma2 = "YES INDEED"
+var Grandma3 = "I love you, too."
 
 var uppercase = "HELLO!"
 
@@ -39,9 +40,9 @@ function sayHiToGrandma(string){
     return(Grandma1)
 
   }else if(string.toUpperCase === string){
-    console.log("YES INDEED!")
+    return(Grandma2)
   }else if(string === "I love you, Grandma."){
-    console.log("I love you, too.")
+    return(Grandma3)
   }
   }
   
